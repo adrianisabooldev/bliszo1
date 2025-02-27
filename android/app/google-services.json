@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518891785773",
+    "project_id": "bliszo1",
+    "storage_bucket": "bliszo1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518891785773:android:82b7584fa30ea6b98af2a4",
+        "android_client_info": {
+          "package_name": "com.example.bliszo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ndMUszWDhawFTkcvRhcOJANQpFFwDZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
